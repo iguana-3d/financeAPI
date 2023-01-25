@@ -1,4 +1,4 @@
-## FinAPI - Financeira
+## Finance API
 
 ---
 
@@ -24,4 +24,3 @@
 - [x] Não deve ser possível fazer um saque em uma conta não existente
 - [x] Não deve ser possível excluir uma conta não existente
 - [x] Não deve ser possível fazer um saque quando o saldo for insuficiente
-# financeAPI
